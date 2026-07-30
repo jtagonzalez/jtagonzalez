@@ -10,7 +10,7 @@ Desarrollador backend enfocado en automatización de procesos, agentes de Inteli
 📍 Medellín, Colombia.
 🛠️ Stack principal
 
-Lenguajes: Python · JavaScript · Java · C# · PHP Backend: FastAPI · APIs REST Automatización / IA: PyAutoGUI · Playwright · Pytesseract (OCR) · SDK de Anthropic (Claude) Datos: PostgreSQL · MySQL · SQL Server · Power BI · Grafana Cloud / DevOps: Google Cloud Platform (Docker, Cloud Run) · Git & GitHub Otros: Inno Setup (empaquetado de apps de escritorio)
+Lenguajes: Python · JavaScript · Backend: FastAPI · APIs REST Automatización / IA: PyAutoGUI · Playwright · Pytesseract (OCR) · SDK de Anthropic (Claude) Datos: PostgreSQL · MySQL · SQL Server · Power BI · Grafana Cloud / DevOps: Google Cloud Platform (Docker, Cloud Run) · Git & GitHub Otros: Inno Setup (empaquetado de apps de escritorio)
 
 📌 Proyectos destacados
 
@@ -48,7 +48,7 @@ Backend developer focused on process automation, AI agents, and cloud deployment
 📍 Medellín, Colombia.
 🛠️ Core stack
 
-Languages: Python · JavaScript · Java · C# · PHP Backend: FastAPI · REST APIs Automation / AI: PyAutoGUI · Playwright · Pytesseract (OCR) · Anthropic SDK (Claude) Data: PostgreSQL · MySQL · SQL Server · Power BI · Grafana Cloud / DevOps: Google Cloud Platform (Docker, Cloud Run) · Git & GitHub Other: Inno Setup (desktop app packaging)
+Languages: Python · JavaScript  Backend: FastAPI · REST APIs Automation / AI: PyAutoGUI · Playwright · Pytesseract (OCR) · Anthropic SDK (Claude) Data: PostgreSQL · MySQL · SQL Server · Power BI · Grafana Cloud / DevOps: Google Cloud Platform (Docker, Cloud Run) · Git & GitHub Other: Inno Setup (desktop app packaging)
 
 📌 Featured projects
 
