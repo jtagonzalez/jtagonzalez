@@ -15,10 +15,14 @@ Lenguajes: Python · JavaScript · Java · C# · PHP Backend: FastAPI · APIs RE
 📌 Proyectos destacados
 
 Actualiza estos enlaces con los repos reales que vayas fijando en tu perfil.
-
+(privado)
 Cruces interinstitucionales — Sistema de consultas masivas con interfaz visual, exportación de resultados en PDF/HTML y resolución de CAPTCHAs.
-Agente-analitico — Agente de IA por consola (CLI) que analiza datos JSON con análisis estadístico y geoespacial, usando el SDK de Anthropic (Claude).
+
 EP-reduced — Pipeline que integra datos desde AppSheet y SharePoint hacia una base de datos centralizada, con control de versiones por marca de tiempo (watermark).
+(público)
+Bot de trading — Sistema de operaciones de trading en automático, mediante un llamado a la api de IQoption, puede revisar diferentes activos, verifica si alguno de estos cumple los parámetros de los indicadores y realiza las operaciones.
+Bot juego dofus  — Bot que realiza funciones de el oficio campesino y panadero, realiza un ciclo completo de, movimiento entre mapas, recolección de recursos, crafteo de estos.
+Agente-analítico básico — Agente de IA por consola (CLI) que analiza datos JSON con análisis estadístico y geoespacial, usando el SDK de Anthropic (Claude).
 
 📁 Cuento con proyectos adicionales en repositorios privados, no publicados por contener información sensible de clientes o por acuerdos de confidencialidad. Disponibles bajo solicitud.
 
