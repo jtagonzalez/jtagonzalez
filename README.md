@@ -25,12 +25,13 @@
 
 ## 🧭 Sobre mí
 
-Construyo software que funciona en producción, no solo en mi máquina. Soy desarrollador backend Python enfocado en automatización de procesos, agentes de Inteligencia Artificial y aplicaciones web de punta a punta: diseño la API, modelo la base de datos, despliego en la nube y me encargo de que escale.
+Desarrollador enfocado en automatización de procesos, agentes de Inteligencia Artificial y despliegue de soluciones en la nube (GCP). Me gusta construir sistemas que le quitan trabajo manual y repetitivo a las personas: desde scraping y consultas masivas de datos, hasta pipelines que alimentan bases de datos centralizadas de forma automática para uso de los datos. Construyo software que funciona en producción: diseño la API, modelo la base de datos, despliego en la nube y me encargo de que escale.
 
-- 💼 Actualmente: **Desarrollador Backend Python & Automatización en Corlide** (agentes de IA, scraping masivo, ETL y dashboards de BI).
+- 💼 Actualmente: **Desarrollador Backend Python & Automatización en Corlide**, trabajando en automatización de procesos y agentes de IA aplicados a análisis de datos (scraping masivo, ETL y dashboards de BI).
 - 🚀 Proyecto propio en producción: **[KamasMarket](https://kamasmarket.com/en)**, marketplace P2P con pagos cripto.
+- 🧩 Me interesa especialmente: web scraping avanzado, integración de datos (ETL), IA aplicada y arquitectura de despliegue en la nube.
 - 🎓 **Tecnología en Análisis y Desarrollo de Software — SENA** (programa finalizado, en espera de título).
-- 🌱 Vengo de la gestión ambiental: de ahí traigo la rigurosidad con los datos y la disciplina técnica.
+- 🌱 Aprendiendo constantemente sobre buenas prácticas de backend y arquitectura de sistemas. Vengo de la gestión ambiental: de ahí traigo la rigurosidad con los datos y la disciplina técnica.
 - 📍 Medellín, Colombia · abierto a oportunidades remotas, híbridas o presenciales.
 
 ## 🛠️ Stack principal
@@ -47,6 +48,7 @@ Construyo software que funciona en producción, no solo en mi máquina. Soy desa
 | **Blockchain / Web3** | Solidity · USDT on-chain · BSC (BEP-20) · Tron (TRC-20) · escrow |
 | **Frontend & SEO** | HTML5 · CSS3 · Bootstrap · i18n · SEO técnico (hreflang, sitemap.xml, Search Console) |
 | **Metodologías** | Scrum · Kanban · Clean Code · pruebas unitarias · UML |
+| **Otros** | Inno Setup (empaquetado de apps de escritorio) |
 
 ## 📌 Proyectos destacados
 
@@ -86,12 +88,13 @@ jose.fgonzalez194@gmail.com · [LinkedIn](https://www.linkedin.com/in/josé-gonz
 
 ## 🧭 About me
 
-I build software that works in production, not just on my machine. I'm a Python backend developer focused on process automation, AI agents and end-to-end web applications: I design the API, model the database, deploy to the cloud and make sure it scales.
+Developer focused on process automation, AI agents, and cloud deployment (GCP). I enjoy building systems that remove manual, repetitive work from people's hands: from web scraping and bulk data lookups, to pipelines that automatically feed centralized databases for downstream use. I build software that works in production: I design the API, model the database, deploy to the cloud and make sure it scales.
 
-- 💼 Currently: **Python Backend & Automation Developer at Corlide** (AI agents, large-scale scraping, ETL and BI dashboards).
+- 💼 Currently: **Python Backend & Automation Developer at Corlide**, working on process automation and AI agents applied to data analysis (large-scale scraping, ETL and BI dashboards).
 - 🚀 Own project in production: **[KamasMarket](https://kamasmarket.com/en)**, a P2P marketplace with crypto payments.
+- 🧩 Particularly interested in: advanced web scraping, data integration (ETL), applied AI, and cloud deployment architecture.
 - 🎓 **Technology Degree in Software Analysis and Development — SENA** (program completed, diploma in process).
-- 🌱 Background in environmental management: it gave me rigor with data and technical discipline.
+- 🌱 Constantly learning about backend best practices and system architecture. Background in environmental management: it gave me rigor with data and technical discipline.
 - 📍 Medellín, Colombia · open to remote, hybrid or on-site opportunities.
 
 ## 🛠️ Core stack
@@ -108,6 +111,7 @@ I build software that works in production, not just on my machine. I'm a Python 
 | **Blockchain / Web3** | Solidity · on-chain USDT · BSC (BEP-20) · Tron (TRC-20) · escrow |
 | **Frontend & SEO** | HTML5 · CSS3 · Bootstrap · i18n · technical SEO (hreflang, sitemap.xml, Search Console) |
 | **Methodologies** | Scrum · Kanban · Clean Code · unit testing · UML |
+| **Other** | Inno Setup (desktop app packaging) |
 
 ## 📌 Featured projects
 
