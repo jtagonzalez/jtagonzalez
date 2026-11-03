@@ -30,7 +30,7 @@ Desarrollador enfocado en automatización de procesos, agentes de Inteligencia A
 - 💼 Actualmente: **Desarrollador Backend Python & Automatización en Corlide**, trabajando en automatización de procesos y agentes de IA aplicados a análisis de datos (scraping masivo, ETL y dashboards de BI).
 - 🚀 Proyecto propio en producción: **[KamasMarket](https://kamasmarket.com/en)**, marketplace P2P con pagos cripto.
 - 🧩 Me interesa especialmente: web scraping avanzado, integración de datos (ETL), IA aplicada y arquitectura de despliegue en la nube.
-- 🎓 **Tecnología en Análisis y Desarrollo de Software — SENA** (programa finalizado, en espera de título).
+- 🎓 **Tecnología en Análisis y Desarrollo de Software — SENA** (programa finalizado).
 - 🌱 Aprendiendo constantemente sobre buenas prácticas de backend y arquitectura de sistemas. Vengo de la gestión ambiental: de ahí traigo la rigurosidad con los datos y la disciplina técnica.
 - 📍 Medellín, Colombia · abierto a oportunidades remotas, híbridas o presenciales.
 
@@ -93,7 +93,7 @@ Developer focused on process automation, AI agents, and cloud deployment (GCP). 
 - 💼 Currently: **Python Backend & Automation Developer at Corlide**, working on process automation and AI agents applied to data analysis (large-scale scraping, ETL and BI dashboards).
 - 🚀 Own project in production: **[KamasMarket](https://kamasmarket.com/en)**, a P2P marketplace with crypto payments.
 - 🧩 Particularly interested in: advanced web scraping, data integration (ETL), applied AI, and cloud deployment architecture.
-- 🎓 **Technology Degree in Software Analysis and Development — SENA** (program completed, diploma in process).
+- 🎓 **Technology Degree in Software Analysis and Development — SENA** (program completed).
 - 🌱 Constantly learning about backend best practices and system architecture. Background in environmental management: it gave me rigor with data and technical discipline.
 - 📍 Medellín, Colombia · open to remote, hybrid or on-site opportunities.
 
